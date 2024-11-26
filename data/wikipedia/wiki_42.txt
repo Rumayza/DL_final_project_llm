@@ -1,0 +1,51 @@
+Agricultural technology or agrotechnology (abbreviated agtech, agritech, AgriTech, or agrotech)  is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input and output processes.
+Advances in agricultural science, agronomy, and agricultural engineering have led to applied developments in agricultural technology.
+
+History
+The history of agriculture has been shaped by technological advances. Agricultural technology dates back thousands of years. Historians have described a number of agricultural revolutions, which identify major shifts in agricultural practice and productivity. These revolutions have been closely connected to technological improvements.
+
+Neolothic to Bronze Age
+Around 10,000 years ago, the Neolithic Revolution catalyzed an epochal transformation. Humanity transitioned from nomadic hunter-gatherer societies to stable agricultural communities. This transition bore witness to the domestication of vital plants and animals, including wheat, barley, and livestock, fundamentally altering the agricultural landscape. The surplus food production that ensued fueled population growth and laid the cornerstone for nascent civilizations. Irrigation technology was developed independently by a number of different cultures, with the earliest known examples dated to the 6th millennium BCE in Khuzistan in the south-west of present-day Iran. The ancient Egyptian use of the Nile River's flooding, marked another significant advancement.
+
+Classical period
+The Roman era ushered in notable contributions to agricultural technology. The Romans introduced innovative implements, such as the Roman plough, a notable refinement in soil cultivation. In tandem, they compiled comprehensive agricultural manuals like "De Re Rustica," serving as invaluable records of contemporary farming techniques.
+
+Middle Ages
+The Middle Ages bequeathed significant agricultural progress. Concepts like crop rotation and the three-field system enhanced soil fertility and crop yields, while the introduction of the heavy plow, driven by draft animals, facilitated the cultivation of previously uncultivated lands.
+
+Industrial Revolution
+A major turning point for agricultural technology is the Industrial Revolution, which introduced agricultural machinery to mechanise the labour of agriculture, greatly increasing farm worker productivity. Revolutionary inventions like the seed drill, mechanical reaper, and steam-powered tractors reshaped the farming landscape. This period also witnessed the establishment of agricultural societies and colleges dedicated to advancing farming methodologies. In modern mechanised agriculture powered machinery has replaced many farm jobs formerly carried out by manual labour or by working animals such as oxen, horses and mules.
+Advances in the 19th century included the development of modern weather forecasting and invention of barbed wire. Improvement to portable engines and threshing machines led to their widespread adoption. Guano became a popular fertilizer in the 1800s and was widely extracted for this purpose. Guano use rapidly declined after 1910 with the development of the Haber–Bosch process for extracting nitrogen from the atmosphere.Citation needed
+
+20th century
+The 20th century saw major advances in agricultural technologies, including the development of synthetic fertilizers and pesticides, and new agricultural machinery including mass-produced tractors and agricultural aircraft for aerial application of pesticides. More recent advances have included agricultural plastics, genetically modified crops, improved drip irrigation, integrated pest management, and soilless farming techniques such as hydroponics, aquaponics, and aeroponics.
+
+21st century
+In the first decades of the 21st century, Information Age technologies have been increasingly applied to agriculture. Agricultural robots, agricultural drones and driverless tractors have found regular use on farms, while digital agriculture and precision agriculture make use of extensive data collection and computation to improve farm efficiency. Precision agriculture includes such areas as precision beekeeping, precision livestock farming, and
+precision viticulture.
+
+Agtech hubs
+Israel
+Israel's agtech scene is considered second only to the US. Israel holds several institutions of agricultural research including the Volcani center. Israeli milk cows have the highest production of milk in the world. The modern cherry tomato was developed in Israel.
+
+List of Agtech hubs
+The following is a 2021 list of by startup genome ranking Global Agtech & New Food tech ranking.
+
+See also
+Agricultural aircraft – Category of Aircraft
+Agricultural engineering – Application of engineering for agricultural purposes
+Agricultural machinery – Machinery used in farming or other agriculture
+Atomic gardening – Form of mutation breeding in plants
+Automatic milking – Milking of dairy animals without human labour
+Controlled-environment agriculture – Technology-based approach toward food growing
+Data mining in agriculture – Application of data mining techniques to agriculture
+Food technology – Academic discipline regarding the preparation of foods
+Information and communications technology in agriculture – Agricultural and rural development
+Optical sorting – Automated sorting of solid products using cameras and/or lasers.
+Plasticulture – Use of plastic materials in agriculture
+Technology and society
+Timeline of cellular agriculture
+Research4Life
+
+
+== References ==
